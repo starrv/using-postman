@@ -1,0 +1,22 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Sedan",
+      "color": "white",
+      "price": 2000,
+      "image": "https://t3.ftcdn.net/jpg/01/70/61/18/360_F_170611883_HXhJaq59mNuo5bHhhNDQUj7zDnTcITgP.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Honda",
+      "color": "purple",
+      "price": 4000,
+      "image": "https://cdn.shopify.com/s/files/1/0044/5418/7126/files/CL-GE-18-04_50355934-2cfa-45be-85ae-80dad21cc545.jpg?v=1576832787"
+    },
+    {
+      "price": 7000,
+      "id": 4
+    }
+  ]
+}
